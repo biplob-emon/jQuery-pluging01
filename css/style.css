@@ -1,0 +1,90 @@
+
+
+
+.thame-section{
+	background-image: url(https://cdn.pixabay.com/photo/2017/01/14/13/59/castelmezzano-1979546_1280.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	background-color: #070751d1;
+	background-blend-mode: darken;
+}
+ .logo{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+z-index: 2;
+width: 150px;
+height: 150px;
+}
+section h1{
+	position: absolute;
+	top: 53%;
+	left: 0;
+	transform: translate(53%,);
+	z-index: 3;
+	text-align: center;
+	background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0c0602+0,0e0930+10,891d1a+20,3e440d+35,2989d8+46,440d28+53,21051f+67,093319+80,2989d8+86,093319+87,093319+87,edf484+100 */
+background: rgb(12,6,2); /* Old browsers */background: -moz-linear-gradient(-45deg,  rgba(12,6,2,1) 0%, rgba(14,9,48,1) 10%, rgba(137,29,26,1) 20%, rgba(62,68,13,1) 35%, rgba(41,137,216,1) 46%, rgba(68,13,40,1) 53%, rgba(33,5,31,1) 67%, rgba(9,51,25,1) 80%, rgba(41,137,216,1) 86%, rgba(9,51,25,1) 87%, rgba(9,51,25,1) 87%, rgba(237,244,132,1) 100%); /* FF3.6-15 */background: -webkit-linear-gradient(-45deg,  rgba(12,6,2,1) 0%,rgba(14,9,48,1) 10%,rgba(137,29,26,1) 20%,rgba(62,68,13,1) 35%,rgba(41,137,216,1) 46%,rgba(68,13,40,1) 53%,rgba(33,5,31,1) 67%,rgba(9,51,25,1) 80%,rgba(41,137,216,1) 86%,rgba(9,51,25,1) 87%,rgba(9,51,25,1) 87%,rgba(237,244,132,1) 100%); /* Chrome10-25,Safari5.1-6 */background: linear-gradient(135deg,  rgba(12,6,2,1) 0%,rgba(14,9,48,1) 10%,rgba(137,29,26,1) 20%,rgba(62,68,13,1) 35%,rgba(41,137,216,1) 46%,rgba(68,13,40,1) 53%,rgba(33,5,31,1) 67%,rgba(9,51,25,1) 80%,rgba(41,137,216,1) 86%,rgba(9,51,25,1) 87%,rgba(9,51,25,1) 87%,rgba(237,244,132,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c0602', endColorstr='#edf484',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+width: 100%;
+-webkit-text-fill-color: transparent;-webkit-background-clip: text;
+font-size:24px;
+}
+
+
+.logo img:hover{
+	transform:rotateX(45deg) rotateY(40deg);
+	transform: translateY(20px);
+
+}
+ 
+
+ .slider img{
+ 	padding: 25px 10px;
+ 	 }
+.slider{
+	background-color: #00073b47;
+}
+
+h2{
+	font-size: 20px;
+	color: white;
+	font-weight: 200px;
+		background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0c0602+0,0e0930+10,891d1a+20,3e440d+35,2989d8+46,440d28+53,21051f+67,093319+80,2989d8+86,093319+87,093319+87,edf484+100 */
+background: rgb(12,6,2); /* Old browsers */background: -moz-linear-gradient(-45deg,  rgba(12,6,2,1) 0%, rgba(14,9,48,1) 10%, rgba(137,29,26,1) 20%, rgba(62,68,13,1) 35%, rgba(41,137,216,1) 46%, rgba(68,13,40,1) 53%, rgba(33,5,31,1) 67%, rgba(9,51,25,1) 80%, rgba(41,137,216,1) 86%, rgba(9,51,25,1) 87%, rgba(9,51,25,1) 87%, rgba(237,244,132,1) 100%); /* FF3.6-15 */background: -webkit-linear-gradient(-45deg,  rgba(12,6,2,1) 0%,rgba(14,9,48,1) 10%,rgba(137,29,26,1) 20%,rgba(62,68,13,1) 35%,rgba(41,137,216,1) 46%,rgba(68,13,40,1) 53%,rgba(33,5,31,1) 67%,rgba(9,51,25,1) 80%,rgba(41,137,216,1) 86%,rgba(9,51,25,1) 87%,rgba(9,51,25,1) 87%,rgba(237,244,132,1) 100%); /* Chrome10-25,Safari5.1-6 */background: linear-gradient(135deg,  rgba(12,6,2,1) 0%,rgba(14,9,48,1) 10%,rgba(137,29,26,1) 20%,rgba(62,68,13,1) 35%,rgba(41,137,216,1) 46%,rgba(68,13,40,1) 53%,rgba(33,5,31,1) 67%,rgba(9,51,25,1) 80%,rgba(41,137,216,1) 86%,rgba(9,51,25,1) 87%,rgba(9,51,25,1) 87%,rgba(237,244,132,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c0602', endColorstr='#edf484',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+width: 100%;
+-webkit-text-fill-color: transparent;-webkit-background-clip: text;
+font-size:24px;
+}
+
+.portfolio-section{
+    background: #b8bac88c;
+    padding: 50px 0;
+}
+.portfolio-section ul{
+}
+.portfolio-section ul li{padding: 10px 5px;}
+.portfolio-section ul li button{
+    background: #B8BAC8;
+    padding: 10px 20px;
+    color: #fcd4a5d1;
+    border: 2px solid #a09797;
+    transition: all 0.2 ease;
+}
+.portfolio-section ul li button:hover{
+	 background: #000;
+color: #fff;
+} 
+
+.portfolio-section img{
+    margin: 10px 0;
+    padding: 0 10px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.col-lg-3{}
+.portfolio-section{}
